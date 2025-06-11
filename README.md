@@ -2,7 +2,11 @@
 
 When in doubt, ask a smarter OVOS install
 
-> NOTE: this repository eventually will be converted from a FallbackSkill into a pipeline plugin
+-------
+
+**THIS REPOSITORY MOVED TO [JarbasHiveMind/ovos-hivemind-pipeline-plugin](https://github.com/JarbasHiveMind/ovos-hivemind-pipeline-plugin)**
+
+-------------
 
 ## Configuration
 
